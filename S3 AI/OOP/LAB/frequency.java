@@ -1,6 +1,6 @@
 //program to find the frequency of characters in a string
-//DEvika P Sajith
-//Roll no:26
+//KARTHIK S
+//Roll no:35
 import java.util.*;
 class frequency
 {
