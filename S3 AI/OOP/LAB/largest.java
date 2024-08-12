@@ -4,7 +4,7 @@
 
 import java.lang.*;
 import java.util.*;
-class large
+class largest
 {
     public static void main(String args[]) 
     {
